@@ -41,7 +41,9 @@ def load_data(city, month, day):
         df - Pandas DataFrame containing city data filtered by month and day
     """
 
-
+ print('\nCalculating The Most Frequent Times of Travel...\n')
+    start_time = time.time() print('\nCalculating The Most Frequent Times of Travel...\n')
+    start_time = time.time()
     return df
 
 
