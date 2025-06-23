@@ -24,4 +24,8 @@ $ python bikeshare.py
 
 Credits
 
+<<<<<<< HEAD
 Programming for Data Science with Python
+=======
+Programming for Data Science with Python
+>>>>>>> b843df5b320fd57d5bf43e9e08c25299a94b4433
